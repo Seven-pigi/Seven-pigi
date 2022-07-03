@@ -2,11 +2,7 @@
 <a href="https://www.linkedin.com/jobs/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://mail.google.com/mail/u/0/?ogbl#inbox">gmail </a>
-
-<a href="https://blog.csdn.net/WinterSeven?spm=1000.2115.3001.5343">csdn</a>
-
-<a href="https://www.notion.so/Seven-s-f6da821b5ace4648b29f3892254029f9">notion</a>
+<a href="https://mail.google.com/mail/u/0/?ogbl#inbox">gmail </a><a href="https://blog.csdn.net/WinterSeven?spm=1000.2115.3001.5343">csdn</a><a href="https://www.notion.so/Seven-s-f6da821b5ace4648b29f3892254029f9">notion</a>
 
 <br />
 
