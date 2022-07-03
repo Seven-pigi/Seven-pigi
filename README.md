@@ -34,16 +34,6 @@ hi, i'm WiChurry,a student study in GCU.Welcome to my github.Always push new cod
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```text
-C++    1 hr 25 mins    ███████████████▒░░░░░░░░░   61.66 %
-Java   43 mins         ████████░░░░░░░░░░░░░░░░░   31.59 %
-python 7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
-Other  1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-
-```
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WinCherry&count_private=true&show_icons=true&theme=nord&repo=calm)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -54,13 +44,6 @@ if you like what i do, maybe consider buying me a milk tea 🥺👉👈
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
 
 
