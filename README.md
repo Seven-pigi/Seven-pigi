@@ -2,15 +2,17 @@
 <a href="https://www.linkedin.com/jobs/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://mail.google.com/mail/u/0/?ogbl#inbox">gmail</a>
-<a href="[https://mail.google.com/mail/u/0/?ogbl#inbox](https://blog.csdn.net/WinterSeven?spm=1000.2115.3001.5343)">csdn</a>
-<a href="[[https://mail.google.com/mail/u/0/?ogbl#inbox](https://blog.csdn.net/WinterSeven?spm=1000.2115.3001.5343)](https://www.notion.so/Seven-s-f6da821b5ace4648b29f3892254029f9)">notion</a>
+<a href="https://mail.google.com/mail/u/0/?ogbl#inbox">gmail </a>
+
+<a href="https://blog.csdn.net/WinterSeven?spm=1000.2115.3001.5343">csdn</a>
+
+<a href="https://www.notion.so/Seven-s-f6da821b5ace4648b29f3892254029f9">notion</a>
 
 <br />
 
 hi, i'm [WiChurry](https://WinCherry.me/),a student study in GCU.Welcome to my github.Always I will push my new code here.
 
-  <img align="right" alt="GIF" src="https://github.com/WinCherry/WinCherry/blob/master/code.gif?raw=true" width="400" height="320" />
+<img align="right" alt="GIF" src="https://github.com/WinCherry/WinCherry/blob/master/code.gif?raw=true" width="400" height="320" />
   
 - 💼 any freelance work? do reach, [email](https://mail.google.com/mail/u/0/?ogbl#inbox) :)
 - 💬 ask me about anything, i am happy to help; phone/Wechat:15220421073
