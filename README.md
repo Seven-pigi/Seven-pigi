@@ -3,9 +3,8 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<a href="https://mail.google.com/mail/u/0/?ogbl#inbox">
-  <img align="left" width="22px" src="https://github.com/WinCherry/WinCherry/blob/master/gmail.svg" />
-</a>
+<a href="https://mail.google.com/mail/u/0/?ogbl#inbox">gmail</a>
+
 
 <br />
 
