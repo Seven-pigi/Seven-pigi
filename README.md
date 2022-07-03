@@ -2,20 +2,24 @@
 <a href="https://www.linkedin.com/jobs/">
   <img align="left" alt="Wichurry's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://mail.google.com/mail/u/0/?ogbl#inbox">
-  <img align="left" alt="Wichurry's Gmail" width="22px" src="https://github.com/WinCherry/WinCherry/blob/master/gmail.png" />
+
+<a href="https://blog.csdn.net/WinterSeven?spm=1000.2115.3001.5343">
+  <img align="left" alt="Wichurry's csdn" width="22px" src="https://github.com/WinCherry/WinCherry/blob/master/csdn.jpg" />
 </a>
-<a href="https://blog.csdn.net/WinterSeven?spm=1000.2115.3001.5343">csdn</a> 
-<a href="https://www.notion.so/Seven-s-f6da821b5ace4648b29f3892254029f9">notion</a> 
+<a href="https://www.notion.so/Seven-s-f6da821b5ace4648b29f3892254029f9">
+  <img align="left" alt="Wichurry's notion" width="22px" src="https://github.com/WinCherry/WinCherry/blob/master/notion.png" />
+</a>
 
 <br />
 
 hi, i'm [WiChurry](https://WinCherry.me/),a student study in GCU.Welcome to my github.Always I will push my new code here.
 
-<img align="right" alt="GIF" src="https://github.com/WinCherry/WinCherry/blob/master/code.gif?raw=true" width="400" height="320" />
+<img align="right" alt="GIF" src="https://github.com/WinCherry/WinCherry/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](https://mail.google.com/mail/u/0/?ogbl#inbox) :)
-- 💬 ask me about anything, i am happy to help; phone/Wechat:15220421073
+- 💼 any freelance work? do reach, [Gmail](https://mail.google.com/mail/u/0/?ogbl#inbox) :)
+- 💼 any work? do reach, [QQMail](https://en.mail.qq.com/cgi-bin/frame_html?sid=y0rq3tMT4P08IXET,2,en_US&r=18285df28e709709a833f1b6f3037ec0&) :)
+- 💬 any questions? My phone/Wechat:15220421073
+- if you have any things that you want to connect to me,you can try there
 
 **languages and tools:**  
 
@@ -38,7 +42,10 @@ C++    1 hr 25 mins    ███████████████▒░░░
 Java   43 mins         ████████░░░░░░░░░░░░░░░░░   31.59 %
 python 7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
 Other  1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+
 ```
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WinCherry&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--END_SECTION:waka-->
 
