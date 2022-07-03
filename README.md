@@ -14,7 +14,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
   <img align="right" alt="GIF" src="https://github.com/WinCherry/WinCherry/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](seven.pigii@gmail.com) :)
+- 💼 any freelance work? do reach, [email](https://mail.google.com/mail/u/0/?ogbl#inbox) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
@@ -34,10 +34,10 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   1 hr 25 mins    ███████████████▒░░░░░░░░░   61.66 %
-JavaScript   43 mins         ████████░░░░░░░░░░░░░░░░░   31.59 %
-SCSS         7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
-Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+C++    1 hr 25 mins    ███████████████▒░░░░░░░░░   61.66 %
+Java   43 mins         ████████░░░░░░░░░░░░░░░░░   31.59 %
+python 7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+Other  1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 ```
 
 <!--END_SECTION:waka-->
